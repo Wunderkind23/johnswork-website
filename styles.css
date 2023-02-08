@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    background-color: black;
+}
+.form-1{
+height:70px;
+width:200px;
+margin: auto;
+background-color: white;
+}
+form input{
+    margin-top: 10px;
+}
+form{
+    margin-left: 10px;
+}
+.form-2{
+height:50px;
+width:400px;
+margin: auto;
+background-color: white;
+}
+p{padding-top: 10px;
+    padding-left: 10px;
+}
+.form-3{
+    height:150px;
+    width:500px;
+    margin: auto;
+    background-color: chocolate;
+    margin-top: 20px;
+}
+img{
+    margin-left: 17%;
+    margin-top: 10px;
+}
+.boy{
+    border:1px solid grey;
+    margin-left:30px;
+    margin-right:10px;
+    font-size: 25px;
+    border-radius: 20px;
+    width: 400px;
+}
+.div-name{background-color: red; display: block;}
+.big{color:white; display:inline-flex;}
